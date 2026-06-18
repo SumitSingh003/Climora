@@ -1,0 +1,11 @@
+{
+  "name": "Climora",
+  "description": "Environmental dashboard tracking AQI and carbon footprint.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
